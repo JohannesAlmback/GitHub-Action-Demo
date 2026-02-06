@@ -1,0 +1,16 @@
+{
+  "name": "simple-github-action",
+  "version": "1.0.0",
+  "description": "Super enkel demo för GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Johannes Almback",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
